@@ -5,9 +5,9 @@
 To Start a lecture please click on the corresponding picture
 
 ### 1.Mayapur Yatra 
-[![Youtube](https://img.youtube.com/vi/SwXQvRF3Px8/0.jpg)](https://www.youtube.com/watch?v=SwXQvRF3Px8) 
+[![Youtube](https://img.youtube.com/vi/l78IxY6jXDQ/0.jpg)](https://www.youtube.com/watch?v=l78IxY6jXDQ) 
 ### 2.Bishnupur Yatra
-[![Youtube](https://img.youtube.com/vi/dFy5a3XIqkM/0.jpg)](https://www.youtube.com/watch?v=dFy5a3XIqkM)
+[![Youtube](https://img.youtube.com/vi/RuzYT9o8QqY/0.jpg)](https://www.youtube.com/watch?v=RuzYT9o8QqY)
 ### 3.Snana Yatra @Srivas angan
 [![Youtube](https://img.youtube.com/vi/9hiu3KeSBTw/0.jpg)](https://www.youtube.com/watch?v=9hiu3KeSBTw)
 ### 4.Sivaratri @padima
