@@ -10,7 +10,7 @@ This Website is the compilation of all the teachings of Rathin Singha Prabhu. Ea
 
 1. **[Scientific Understanding of Krishna Consciousness in English ( 3 Lectures)](https://ChaitanyaMahaprabhu.github.io/English_Lecures)**
 2. **[Scientific Understanding of Krishna Consciousness in Bengali ( 3 Lectures)](https://ChaitanyaMahaprabhu.github.io/Bengali_Lectures)**
-3. **[Introductory Lecture Series for Beginners ( 15 Lectures)](https://ChaitanyaMahaprabhu.github.io/Begineer_Lecures)**
+3. **[Introductory Lecture Series for Beginners ( 15 Lectures)](https://ChaitanyaMahaprabhu.github.io/Begineer_Lectures)**
 4. **[Stutis( 2 Lectures)](https://ChaitanyaMahaprabhu.github.io/Stutis)**
 5. **[Strotas( 2 Lectures)](https://ChaitanyaMahaprabhu.github.io/Strotas)**
 6. **[Others ( 8 Videos)](https://ChaitanyaMahaprabhu.github.io/Others)**
