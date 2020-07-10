@@ -2,8 +2,8 @@
 
 ## 	Introductory Lecture Series for Beginners 
 
-[![Youtube](https://img.youtube.com/vi/JvwBNgGnGrg/0.jpg)](https://www.youtube.com/watch?v=JvwBNgGnGrg)  ###1.Science of the Soul 
-[![Youtube](https://img.youtube.com/vi/5Ap_nkTc83M/0.jpg)](https://www.youtube.com/watch?v=5Ap_nkTc83M)  ###2.Importance of Scriptures
+[![Youtube](https://img.youtube.com/vi/JvwBNgGnGrg/0.jpg)](https://www.youtube.com/watch?v=JvwBNgGnGrg)  ### 1.Science of the Soul 
+[![Youtube](https://img.youtube.com/vi/5Ap_nkTc83M/0.jpg)](https://www.youtube.com/watch?v=5Ap_nkTc83M)  ### 2.Importance of Scriptures
 [![Youtube](https://img.youtube.com/vi/QZpR2RucJBw/0.jpg)](https://www.youtube.com/watch?v=QZpR2RucJBw)  ###3.Supremacy of Krishna
 [![Youtube](https://img.youtube.com/vi/o0BmdNlT4Yw/0.jpg)](https://www.youtube.com/watch?v=o0BmdNlT4Yw)  ###4.Personal Form of Krishna
 [![Youtube](https://img.youtube.com/vi/qWGVJfQtTTg/0.jpg)](https://www.youtube.com/watch?v=qWGVJfQtTTg)  ###5.Krsna and Visnu
