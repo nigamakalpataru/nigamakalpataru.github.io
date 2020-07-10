@@ -1,4 +1,4 @@
-## Welcome to or page
+## Welcome to our page
 
 # **About Us**
 
