@@ -2,6 +2,8 @@
 
 ## 	Introductory Lecture Series for Beginners 
 
+To Start a lecture please click on the corresponding picture
+
 ### 1.Science of the Soul 
 [![Youtube](https://img.youtube.com/vi/JvwBNgGnGrg/0.jpg)](https://www.youtube.com/watch?v=JvwBNgGnGrg) 
 ### 2.Importance of Scriptures
