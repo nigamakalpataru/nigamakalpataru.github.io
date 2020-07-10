@@ -15,7 +15,7 @@ To Start a lecture please click on the corresponding picture
 ### 5.Deep Daan
 [![Youtube](https://img.youtube.com/vi/eFcaBU8tAHI/0.jpg)](https://www.youtube.com/watch?v=eFcaBU8tAHI)
 ### 6.Altar inaugration @Taniya Villa
-[![Youtube](https://img.youtube.com/vi/Sf4nlGGK670/0.jpg)](https://www.youtube.com/watch?v=Sf4nlGGK670)
+[![Youtube](https://img.youtube.com/vi/OMcBHZB1hug/0.jpg)](https://www.youtube.com/watch?v=OMcBHZB1hug)
 ### 7.Nigama Picnic 2020
 [![Youtube](https://img.youtube.com/vi/r54Ps3FuRFo/0.jpg)](https://www.youtube.com/watch?v=r54Ps3FuRFo)
 ### 7.Nigama Rath Yatra 2020
