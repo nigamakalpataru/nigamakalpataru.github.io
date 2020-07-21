@@ -31,4 +31,6 @@ To Start a lecture please click on the corresponding picture
 ### 13.Panchatattva
 [![Youtube](https://img.youtube.com/vi/ctn7WQPysaM/0.jpg)](https://www.youtube.com/watch?v=ctn7WQPysaM) 
 ### 14.Bramha Samhita
-[![Youtube](https://img.youtube.com/vi/Gu7mxJjj1uI/0.jpg)](https://www.youtube.com/watch?v=Gu7mxJjj1uI)  
+[![Youtube](https://img.youtube.com/vi/Gu7mxJjj1uI/0.jpg)](https://www.youtube.com/watch?v=Gu7mxJjj1uI)
+### 14.Why Should we Observe Ekadashi Vrat?
+[![Youtube](https://img.youtube.com/vi/zCXg3yzgAgM/0.jpg)](https://www.youtube.com/watch?v=zCXg3yzgAgM)  
