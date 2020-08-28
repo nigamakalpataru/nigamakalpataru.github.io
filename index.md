@@ -5,7 +5,7 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 
 # Nigama Kalpataru Contents
 
-# **List of You Tube Videos**
+## **List of You Tube Videos**
 
 1. **[Introduction to Krishna Consciousness(6 Lectures)](https://nigamakalpataru.github.io/English_Lecures)**
 2. **[কৃষ্ণ ভাবনামৃতের বিজ্ঞান(৬ টি প্রবচন)](https://nigamakalpataru.github.io/Bengali_Lectures)**
@@ -15,13 +15,13 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 6. **[Special Topics](https://nigamakalpataru.github.io/Special_topics)**
 
 
-# **Lecture Series**
+## **Lecture Series**
 
 1. **[Importance of Remembering Krishna](https://drive.google.com/drive/folders/158kELEFNJ1CPkh5Z9k_E-YZN0c_9qtAi?usp=sharing)**
 2. **[Human Life - The Greatest Benediction](https://drive.google.com/drive/folders/1-W-hFyBB18YZLfRIUBRZkqYlSIO-DL4O?usp=sharing)**
 3. **[Bhakti Yoga - The Topmost Yoga System](https://drive.google.com/drive/folders/166Mz5f6mPkTNCpLoVYdRoI8bygkZWwXp?usp=sharing)**
 
-# **Special Lectures(Bengali)**
+## **Special Lectures(Bengali)**
 
 1. **[Shyamananda Prabhu](https://drive.google.com/drive/folders/1ItrC3fXi_vGtNCrJHUonK6IQ8hiZiRIX?usp=sharing)**
 2. **[Panihati Chida Dadhi Mahotsav](https://drive.google.com/drive/folders/19W7BGbleRVaYUH8gMkesf_31TsDT2PHO?usp=sharing)**
@@ -36,7 +36,7 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 11. **[Balarama Katha](https://drive.google.com/file/d/1DDGT3IQGIxP745g7ULlneQFh2r7IGJVD/view?usp=sharing)**
 12. **[Radha Tattva](https://drive.google.com/file/d/1GJP8jskkdG2EtliJLLxI9etDSzaQC0NZ/view?usp=sharing)**
 
-# **Slides**
+## **Slides**
 
 1. **[Introduction to Krishna Consciousness](https://drive.google.com/file/d/1PqksH7ooJvk6VYrJdQB96I4MgM-WcFqR/view?usp=sharing)**
 2. **[Lord Balarama](https://drive.google.com/file/d/1jyZ5BeYdRKeQ-I8TN_diGvm6cqRL0JLY/view?usp=sharing)**
@@ -45,11 +45,11 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 5. **[Srila Prabhupada](https://drive.google.com/file/d/1vNNUH_a2vvTcWi8TSGshz_Yicl-_FMe9/view?usp=sharing)**
 6. **[Srimati Radharani](https://drive.google.com/file/d/1rxFr2EI_af8es4MHhV0IlI_du9wfAV7e/view?usp=sharing)**
 
-# **[Books](https://drive.google.com/drive/folders/1juPkmlIXrUdodtIOcHy0kt23ZzQiriyW?usp=sharing)**
+### **[Books](https://drive.google.com/drive/folders/1juPkmlIXrUdodtIOcHy0kt23ZzQiriyW?usp=sharing)**
 
-# **[Srila Prabhupada Vyas Puja Offerings 2k20](https://drive.google.com/drive/folders/1Ds1UfqhZu2Zez06Rpw4BwPCQ95tuJZ98?usp=sharing)**
+### **[Srila Prabhupada Vyas Puja Offerings 2k20](https://drive.google.com/drive/folders/1Ds1UfqhZu2Zez06Rpw4BwPCQ95tuJZ98?usp=sharing)**
 
-# **[Answers to FAQs](https://drive.google.com/drive/folders/1FGVcmvProRRXKooLHLQ8reY3GPLjh_4p?usp=sharing)**
+### **[Answers to FAQs](https://drive.google.com/drive/folders/1FGVcmvProRRXKooLHLQ8reY3GPLjh_4p?usp=sharing)**
 
-# **[Articles](https://drive.google.com/drive/folders/1MA17jTS9qBaVg9x_CdrDSZ1hN-90zvUi?usp=sharing)**
+### **[Articles](https://drive.google.com/drive/folders/1MA17jTS9qBaVg9x_CdrDSZ1hN-90zvUi?usp=sharing)**
 
