@@ -12,6 +12,9 @@ To Start a lecture please click on the corresponding picture
 [![Youtube](https://img.youtube.com/vi/C-aVnhpLQBI/0.jpg)](https://www.youtube.com/watch?v=C-aVnhpLQBI)  
 ### 4.Mukunda Mala Strota Recitation 
 [![Youtube](https://img.youtube.com/vi/SwXQvRF3Px8/0.jpg)](https://www.youtube.com/watch?v=SwXQvRF3Px8) 
-### 5.Nrsimha Kavacha Strota Recitation( By Prahlad Maharaj)
-[![Youtube](https://img.youtube.com/vi/dFy5a3XIqkM/0.jpg)](https://www.youtube.com/watch?v=dFy5a3XIqkM)  
+### 5.Nrsimha Kavacha Strota Recitation(By Prahlad Maharaj)
+[![Youtube](https://img.youtube.com/vi/dFy5a3XIqkM/0.jpg)](https://www.youtube.com/watch?v=dFy5a3XIqkM)
+### 6.Sri Brahma Samhita
+[![Youtube](https://img.youtube.com/vi/Gu7mxJjj1uI/0.jpg)](https://www.youtube.com/watch?v=Gu7mxJjj1uI)
+
 
