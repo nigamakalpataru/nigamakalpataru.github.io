@@ -14,3 +14,6 @@ To Start a lecture please click on the corresponding picture
 [![Youtube](https://img.youtube.com/vi/HEWRZHuTU-s/0.jpg)](https://www.youtube.com/watch?v=HEWRZHuTU-s)  
 ### 5.Scientific Understanding of KC | Part - 5 | Bengali
 [![Youtube](https://img.youtube.com/vi/uzHjjxVlb7g/0.jpg)](https://www.youtube.com/watch?v=uzHjjxVlb7g)
+### 5.Scientific Understanding of KC | Part - 5 | Bengali
+[![Youtube](https://img.youtube.com/vi/lUc0gy6G2Ps/0.jpg)](https://www.youtube.com/watch?v=lUc0gy6G2Ps)
+
