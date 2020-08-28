@@ -8,5 +8,5 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 
 1. **[Scientific Understanding of Krishna Consciousness in English (6 Lectures)](https://nigamakalpataru.github.io/English_Lecures)**
 2. **[Scientific Understanding of Krishna Consciousness in Bengali (6 Lectures)](https://nigamakalpataru.github.io/Bengali_Lectures)**
-3. **[Introductory Lecture Series for Beginners](https://nigamakalpataru.github.io/Begineer_Lectures)**
+3. **[Brief Introductory Lecture Series for Beginners (in English)](https://nigamakalpataru.github.io/Begineer_Lectures)**
 4. **[Prayers](https://nigamakalpataru.github.io/Stutis)**
