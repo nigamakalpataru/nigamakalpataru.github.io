@@ -1,6 +1,6 @@
-# Welcome to our Page
 
-## 	Stuti
+
+## 	Prayers
 
 To Start a lecture please click on the corresponding picture
 
