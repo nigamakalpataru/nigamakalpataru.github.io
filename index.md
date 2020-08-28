@@ -13,15 +13,12 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 5. **[Festivals & Yatras](https://nigamakalpataru.github.io/Others)**
 6. **[Special Topics](https://nigamakalpataru.github.io/Special_topics)**
 
-# **[Answers to FAQs](https://drive.google.com/drive/folders/1FGVcmvProRRXKooLHLQ8reY3GPLjh_4p?usp=sharing)**
 
 # **Lecture Series**
 
 1. **[Importance of Remembering Krishna](https://drive.google.com/drive/folders/158kELEFNJ1CPkh5Z9k_E-YZN0c_9qtAi?usp=sharing)**
 2. **[Human Life - The Greatest Benediction](https://drive.google.com/drive/folders/1-W-hFyBB18YZLfRIUBRZkqYlSIO-DL4O?usp=sharing)**
 3. **[Bhakti Yoga - The Topmost Yoga System](https://drive.google.com/drive/folders/166Mz5f6mPkTNCpLoVYdRoI8bygkZWwXp?usp=sharing)**
-
-# **[Articles](https://drive.google.com/drive/folders/1MA17jTS9qBaVg9x_CdrDSZ1hN-90zvUi?usp=sharing)**
 
 # **Special Lectures(Bengali)**
 
@@ -50,3 +47,8 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 # **[Books](https://drive.google.com/drive/folders/1juPkmlIXrUdodtIOcHy0kt23ZzQiriyW?usp=sharing)**
 
 # **[Srila Prabhupada Vyas Puja Offerings 2k20](https://drive.google.com/drive/folders/1Ds1UfqhZu2Zez06Rpw4BwPCQ95tuJZ98?usp=sharing)**
+
+# **[Answers to FAQs](https://drive.google.com/drive/folders/1FGVcmvProRRXKooLHLQ8reY3GPLjh_4p?usp=sharing)**
+
+# **[Articles](https://drive.google.com/drive/folders/1MA17jTS9qBaVg9x_CdrDSZ1hN-90zvUi?usp=sharing)**
+
