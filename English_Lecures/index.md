@@ -10,7 +10,9 @@ To Start a lecture please click on the corresponding picture
 [![Youtube](https://img.youtube.com/vi/AA7BtYyGj0U/0.jpg)](https://www.youtube.com/watch?v=AA7BtYyGj0U)  
 ### 3.Scientific Understanding of KC | Part - 3 | English
 [![Youtube](https://img.youtube.com/vi/GURRvo_bNI0/0.jpg)](https://www.youtube.com/watch?v=GURRvo_bNI0)
-### 3.Scientific Understanding of KC | Part - 4 | English
+### 4.Scientific Understanding of KC | Part - 4 | English
 [![Youtube](https://img.youtube.com/vi/lxpXUXiyGxc/0.jpg)](https://www.youtube.com/watch?v=lxpXUXiyGxc)
-### 3.Scientific Understanding of KC | Part - 5 | English
+### 5.Scientific Understanding of KC | Part - 5 | English
 [![Youtube](https://img.youtube.com/vi/Xyu8qLN1mIg/0.jpg)](https://www.youtube.com/watch?v=Xyu8qLN1mIg)
+### 6.Scientific Understanding of KC | Part - 6 | English
+[![Youtube](https://img.youtube.com/vi/lKrFdeVFGHc/0.jpg)](https://www.youtube.com/watch?v=lKrFdeVFGHc)
