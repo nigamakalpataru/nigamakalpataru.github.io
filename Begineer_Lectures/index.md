@@ -28,9 +28,3 @@ To Start a lecture please click on the corresponding picture
 [![Youtube](https://img.youtube.com/vi/QIuCZ_pGhyU/0.jpg)](https://www.youtube.com/watch?v=QIuCZ_pGhyU) 
 ### 12.Srila Prabhupada
 [![Youtube](https://img.youtube.com/vi/prSZJPbdGtY/0.jpg)](https://www.youtube.com/watch?v=prSZJPbdGtY) 
-### 13.Panchatattva
-[![Youtube](https://img.youtube.com/vi/ctn7WQPysaM/0.jpg)](https://www.youtube.com/watch?v=ctn7WQPysaM) 
-### 14.Bramha Samhita
-[![Youtube](https://img.youtube.com/vi/Gu7mxJjj1uI/0.jpg)](https://www.youtube.com/watch?v=Gu7mxJjj1uI)
-### 14.Why Should we Observe Ekadashi Vrat?
-[![Youtube](https://img.youtube.com/vi/zCXg3yzgAgM/0.jpg)](https://www.youtube.com/watch?v=zCXg3yzgAgM)  
