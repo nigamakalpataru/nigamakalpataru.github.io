@@ -11,3 +11,4 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 3. **[Brief Introductory Lecture Series for Beginners (in English)](https://nigamakalpataru.github.io/Begineer_Lectures)**
 4. **[Prayers](https://nigamakalpataru.github.io/Stutis)**
 5. **[Festivals & Yatras](https://nigamakalpataru.github.io/Others)**
+6. **[Special Topics](https://nigamakalpataru.github.io/Special_topics)**
