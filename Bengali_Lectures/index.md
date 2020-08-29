@@ -1,6 +1,4 @@
-## Welcome to our Page
-
-## 	Introductory Lecture Series for Beginners 
+## Welcome to our Page 
 
 To Start a lecture please click on the corresponding picture
 
