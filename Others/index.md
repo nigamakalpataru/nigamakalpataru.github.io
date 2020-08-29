@@ -1,6 +1,4 @@
-## Welcome to My Page
-
-## 	Others
+## Festivals & Yatras
 
 To Start a lecture please click on the corresponding picture
 
