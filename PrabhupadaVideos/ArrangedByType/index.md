@@ -19,7 +19,7 @@
 ## Interviews - Srila Prabhupada Speaks
 [![Youtube](https://img.youtube.com/vi/oe9Pz_HQ7Ng/0.jpg)](https://www.youtube.com/watch?v=oe9Pz_HQ7Ng&list=PLhQvESfduXoBLtIid8TJr4HX_YFX-QvSS)
 ## Initiation Lectures - Srila Prabhupada Speaks
-[![Youtube](https://www.youtube.com/vi/VLvannmmzAI/0.jpg)](https://www.youtube.com/watch?v=VLvannmmzAI&list=PLhQvESfduXoAHlZCPCIAuVybkN9pwgr30)
+[![Youtube](https://img.youtube.com/vi/FEQcS4kGrbA/0.jpg)](https://www.youtube.com/watch?v=VLvannmmzAI&list=PLhQvESfduXoAHlZCPCIAuVybkN9pwgr30)
 ## Isopanisad Lectures - Srila Prabhupada Speaks
 [![Youtube](https://img.youtube.com/vi/Ws4EBt3lIw0/0.jpg)](https://www.youtube.com/watch?v=Ws4EBt3lIw0&list=PLhQvESfduXoAyvQC59pLdZMlmpboJ98Hn)
 ## Nectar of Devotion Lectures - Srila Prabhupada Speaks
