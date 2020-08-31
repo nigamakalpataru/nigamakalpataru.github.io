@@ -16,5 +16,13 @@
 [click here](https://www.youtube.com/watch?v=5RUPOzwhxn0&list=PLhQvESfduXoA-A9dZqP404PxL-SYpdfgm)
 ## Morning Walks - Srila Prabhupada Speaks
 [click here](https://www.youtube.com/watch?v=rei1gj-V7pM&list=PLhQvESfduXoDvTJeqf5XzyjntE1KgpFqS)
-## Festival Lectures - Srila Prabhupada Speaks
-[click here](https://www.youtube.com/watch?v=kXFY1KJCrcU&list=PLhQvESfduXoAyvAHRWEuW42JUTouy_Ju-)
+## Arrival & Departure Addresses - Srila Prabhupada Speaks
+[click here](https://www.youtube.com/watch?v=CYZv_GYuH4o&list=PLhQvESfduXoAClE5XDe93-9VNgB0ipwef)
+## Interviews - Srila Prabhupada Speaks
+[click here](https://www.youtube.com/watch?v=oe9Pz_HQ7Ng&list=PLhQvESfduXoBLtIid8TJr4HX_YFX-QvSS)
+## Initiation Lectures - Srila Prabhupada Speaks
+[click here](https://www.youtube.com/watch?v=VLvannmmzAI&list=PLhQvESfduXoAHlZCPCIAuVybkN9pwgr30)
+## Isopanisad Lectures - Srila Prabhupada Speaks
+[click here](https://www.youtube.com/watch?v=Ws4EBt3lIw0&list=PLhQvESfduXoAyvQC59pLdZMlmpboJ98Hn)
+## Nectar of Devotion Lectures - Srila Prabhupada Speaks
+[click here](https://www.youtube.com/watch?v=CFa9mbUxtNM&list=PLhQvESfduXoB744QumxE8fa0hAPePSxuM)
