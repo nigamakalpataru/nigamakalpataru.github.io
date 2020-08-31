@@ -10,7 +10,8 @@
 [![Youtube](https://img.youtube.com/vi/CLmY3kprGE8/0.jpg)](https://www.youtube.com/watch?v=CLmY3kprGE8) 
 ### 6. ভাগবত মাহাত্ম্য
 [![Youtube](https://img.youtube.com/vi/AFT6nIQ6byE/0.jpg)](https://www.youtube.com/watch?v=AFT6nIQ6byE) 
-
+### 6. Lord Vamanadev
+[![Youtube](https://img.youtube.com/vi/Q9yz3ksP620/0.jpg)](https://www.youtube.com/watch?v=Q9yz3ksP620) 
 
 
 
