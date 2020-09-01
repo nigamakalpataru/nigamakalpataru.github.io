@@ -1,7 +1,7 @@
 # Srila Prabhupada Speaks - Arranged by Year
 
 ## Bhagavad-gita As It Is Lectures - Srila Prabhupada Speaks
-[![Youtube](https://img.youtube.com/vi/gP-xB0nl11s/0.jpg)](https://www.youtube.com/watch?v=gP-xB0nl11s&list=PLhQvESfduXoBRUte8IHnKrKfiHqoX5Aot)
+[![Youtube](https://img.youtube.com/vi/asatvKSwwUk/0.jpg)](https://www.youtube.com/watch?v=asatvKSwwUk&list=PLhQvESfduXoC1RUDjW9OpGr0GLDHVHgQX)
 ## Srimad Bhagavatam Lectures - Srila Prabhupada Speaks
 [![Youtube](https://img.youtube.com/vi/ufP8nw-SZVw/0.jpg)](https://www.youtube.com/watch?v=ufP8nw-SZVw&list=PLhQvESfduXoDOOKflAnLxIN61uhFyQfJ1)
 ## Caitanya Caritamrta Lectures - Srila Prabhupada Speaks
