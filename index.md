@@ -13,7 +13,6 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 4. **[Prayers](https://nigamakalpataru.github.io/Stutis)**
 5. **[Festivals & Yatras](https://nigamakalpataru.github.io/Others)**
 6. **[Special Topics](https://nigamakalpataru.github.io/Special_topics)**
-7. **[PrabhupadaVideos](https://nigamakalpataru.github.io/PrabhupadaVideos)**
 
 
 ## **Lecture Series**
@@ -46,6 +45,9 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 5. **[Srila Prabhupada](https://drive.google.com/file/d/1vNNUH_a2vvTcWi8TSGshz_Yicl-_FMe9/view?usp=sharing)**
 6. **[Srimati Radharani](https://drive.google.com/file/d/1rxFr2EI_af8es4MHhV0IlI_du9wfAV7e/view?usp=sharing)**
 
+## **Original Prabhupada Video 1966-1977**
+  - **[click here](https://nigamakalpataru.github.io/PrabhupadaVideos)**
+  
 ## **Original Prabhupada Audio 1966-1977**
   - **[click here](https://drive.google.com/drive/folders/1naAUKV1sIFLDkWpGGeV21rgaoko_anzN)**
 
