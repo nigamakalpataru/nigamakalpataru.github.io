@@ -51,7 +51,10 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 ## **Original Prabhupada Audio 1966-1977**
   - **[click here](https://drive.google.com/drive/folders/1naAUKV1sIFLDkWpGGeV21rgaoko_anzN)**
 
-## **Books**
+## **Online Books**
+  - **[click here](https://vedabase.io/en/library/)**
+  
+## **Downloadable Books**
   - **[click here](https://drive.google.com/drive/folders/1juPkmlIXrUdodtIOcHy0kt23ZzQiriyW?usp=sharing)**
 
 ## **Srila Prabhupada Vyas Puja Offerings 2k20**
