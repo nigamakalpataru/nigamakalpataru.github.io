@@ -1,5 +1,5 @@
 # Biography of Lalita Sakhi
-![GitHub Logo][https://www.mayapur.com/wp-content/uploads/2019/09/lalitaXSakhi.jpg]
+![GitHub Logo](https://www.mayapur.com/wp-content/uploads/2019/09/lalitaXSakhi.jpg)
 
 Srimati Lalita devi is the foremost among the eight most confidential associates of Srimati Radhika. Her her father is Visoka, her mother is Saradi and her husband is Bhairava. She has the complexion of garocana, a type of yellow pigment. She wears cloth that is sikhi-piccha, like peacock feathers. Her kunja (grove) is colored like lightning and is studded with rubies. It is called Lalitananda and is to the north of Radha Kunda.
 
