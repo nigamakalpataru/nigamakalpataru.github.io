@@ -55,7 +55,6 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 6. **[Tungavidya Sakhi](https://nigamakalpataru.github.io/Gopis/TungavidyaSakhi)**
 7. **[Rangadevi Sakhi](https://nigamakalpataru.github.io/Gopis/SudeviandRangadevSakhi)**
 8. **[Sudevi Sakhi](https://nigamakalpataru.github.io/Gopis/SudeviandRangadevSakhi)**
-9. **[Anuradha Sakhi](https://nigamakalpataru.github.io/Gopis/AnuradhaSakhi)**
 
 ## **Original Prabhupada Video 1966-1977**
   - **[click here](https://nigamakalpataru.github.io/PrabhupadaVideos)**
