@@ -1,0 +1,8 @@
+# Biography of Visakha Sakhi
+![](https://www.mayapur.com/wp-content/uploads/2016/09/vishaka-768x512.jpg)
+
+Visakha is the second most important of the eight varistha-gopis. Her attributes, activities and resolve are all much like those of her friend Lalita. Visakha was born at the exact same moment as her dear friend, Srimati Radharani, appeared in this world. Visakha’s garments are decorated with stars and her complexion is like lightning, being cream-colored with a tinge of red (gaurangi). She is 14 years, 2 months and 15 days in age. Her father is Pavana, the son of the sister of Mukhara-gopi, and her mother is Daksina-devi, the daughter of the sister of Jatila. Her husband is Bahuka (Vahika-gopa). Her residence is cloudlike in color. She appears in gaura-lila as Sri Ramananda Raya.
+
+Visakha-devi is the intimate friend of the Divine Couple. Although she is more exalted than the younger gopis (the gopi messengers lead by Vrnda devi), she also takes up the work of carrying messages between Radha and Krsna and she is the most intelligent and expert of all the gopi messengers. Loquacious Visakha is expert at joking with Lord Govinda, and she is the perfect counsellor of the Divine Couple. Being expert at all aspects of amorous diplomacy, she knows all the arts of how to conciliate an angered lover, how to bribe him, and how to quarrel with him.
+
+Visakha is very dear to Sri Krsna and has the bhava known as svadhina-bhartrka. Her seva is dressing and decorating. In Sri Visakha’s yutha the chief sakhis are Malati, Madhavi, Candrarekha, Subhanana, Kunjari, Harini, Surabhi and Capala.
