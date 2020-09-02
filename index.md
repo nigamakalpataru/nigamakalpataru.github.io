@@ -47,7 +47,10 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 
 ## Biographies of Gopis
 
-1. **[Indulekha Gopi](https://drive.google.com/file/d/1rxFr2EI_af8es4MHhV0IlI_du9wfAV7e/view?usp=sharing)**
+1. **[Indulekha Sakhi](https://drive.google.com/file/d/1rxFr2EI_af8es4MHhV0IlI_du9wfAV7e/view?usp=sharing)**
+2. **[Visakha Sakhi](https://drive.google.com/file/d/1rxFr2EI_af8es4MHhV0IlI_du9wfAV7e/view?usp=sharing)**
+3. **[Campakalata Sakhi](https://drive.google.com/file/d/1rxFr2EI_af8es4MHhV0IlI_du9wfAV7e/view?usp=sharing)**
+3. **[Lalita Sakhi](https://drive.google.com/file/d/1rxFr2EI_af8es4MHhV0IlI_du9wfAV7e/view?usp=sharing)**
 
 ## **Original Prabhupada Video 1966-1977**
   - **[click here](https://nigamakalpataru.github.io/PrabhupadaVideos)**
