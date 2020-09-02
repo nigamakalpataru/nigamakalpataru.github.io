@@ -47,10 +47,10 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 
 ## Biographies of Gopis
 
-1. **[Indulekha Sakhi](nigamakalpataru.github.io/Gopis/IndulekhaSakhi)**
-2. **[Visakha Sakhi](nigamakalpataru.github.io/Gopis/VisakhaSakhi)**
-3. **[Campakalata Sakhi](nigamakalpataru.github.io/tree/master/Gopis/CampakalataSakhi)**
-3. **[Lalita Sakhi](nigamakalpataru.github.io/Gopis/LalitaSakhi)**
+1. **[Indulekha Sakhi](https://nigamakalpataru.github.io/Gopis/IndulekhaSakhi)**
+2. **[Visakha Sakhi](https://nigamakalpataru.github.io/Gopis/VisakhaSakhi)**
+3. **[Campakalata Sakhi](https://nigamakalpataru.github.io/Gopis/CampakalataSakhi)**
+3. **[Lalita Sakhi](https://nigamakalpataru.github.io/Gopis/LalitaSakhi)**
 
 ## **Original Prabhupada Video 1966-1977**
   - **[click here](https://nigamakalpataru.github.io/PrabhupadaVideos)**
