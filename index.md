@@ -52,7 +52,7 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 3. **[Campakalata Sakhi](https://nigamakalpataru.github.io/Gopis/CampakalataSakhi)**
 4. **[Lalita Sakhi](https://nigamakalpataru.github.io/Gopis/LalitaSakhi)**
 5. **[Chitra Sakhi](https://nigamakalpataru.github.io/Gopis/ChitraSakhi)**
-6. **[Tungavidya Sakhi](https://nigamakalpataru.github.io/Gopis/TungavidyaSakhi)**
+6. **[Tungavidya Sakhi](https://nigamakalpataru.github.io/Gopis/Tungavidyasakhi)**
 7. **[Rangadevi Sakhi](https://nigamakalpataru.github.io/Gopis/SudeviandRangadevSakhi)**
 8. **[Sudevi Sakhi](https://nigamakalpataru.github.io/Gopis/SudeviandRangadevSakhi)**
 
