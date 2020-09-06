@@ -268,16 +268,17 @@ Ha ha kesava kesava
 mama sirasi mandanam
 dehi pada-pallavam udaram (Gita govinda, verse by Jagannath)
 
-# Metres
+# Metres :
 
-8 syllable - anustupa - gita
-11 syllable - upajati - samsara dava nala-lidha loka
-12 syllable - ratoddhata - nigama kalpataror / namami narayana pada pankajam(MMS 27)
-13 syllable - manjubhasini - CC
-14 syllable - vasantatilaka - brahma samhita
-15 syllable - Malini - jayati jana nivaso
-17 syllable - prthvi/mandakranta - kamadinam kati na(prthvi) / barhapidam natavara
+1. 8 syllable - anustupa - gita
+2. 11 syllable - upajati - samsara dava nala-lidha loka
+3. 12 syllable - ratoddhata - nigama kalpataror / namami narayana pada pankajam(MMS 27)
+4. 13 syllable - manjubhasini - CC
+5. 14 syllable - vasantatilaka - brahma samhita
+6. 15 syllable - Malini - jayati jana nivaso
+7. 17 syllable - prthvi/mandakranta - kamadinam kati na(prthvi) / barhapidam natavara
 vapuh(mandakranta)
-19 syllable - sardula vikridita - krsnotkirtana, ceto darpana
-21 syllable - sragdhara - satrucchedaika mantram, vande ham
-12/13 syllable - Pushpitagra - bhisma stuti
+8. 19 syllable - sardula vikridita - krsnotkirtana, ceto darpana
+9. 21 syllable - sragdhara - satrucchedaika mantram, vande ham
+10. 12/13 syllable - Pushpitagra - bhisma stuti
+
