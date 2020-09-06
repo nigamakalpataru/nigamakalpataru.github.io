@@ -60,7 +60,7 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
   - **[click here](https://nigamakalpataru.github.io/PrabhupadaVideos)**
   
 ## **Important Verses**
-  - **[click here](https://nigmakalpataru.github.io/ImportantVerses)**
+  - **[click here](https://nigamakalpataru.github.io/ImportantVerses)**
   
 ## **Original Prabhupada Audio 1966-1977**
   - **[click here](https://drive.google.com/drive/folders/1naAUKV1sIFLDkWpGGeV21rgaoko_anzN)**
