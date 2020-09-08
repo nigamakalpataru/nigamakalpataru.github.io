@@ -1,1 +1,15 @@
+# FAQ
 
+1. [Why to hear in Parampara?-2](https://drive.google.com/file/d/1FO83gIetW5AuesW4hrZ6Plci1SVoG9Bf/view?usp=sharing)
+2. [Why to hear in Parampara?-2](https://drive.google.com/file/d/1FMs_FaW74276LyJnM67eVqa2ilvSFAJG/view?usp=sharing)
+3. [Who can do deity worship](https://drive.google.com/file/d/1GSQjvlieefDBHn6xMUMHslRbyb1Z3F5V/view?usp=sharing)
+4. [sunyavad_buddhism](https://drive.google.com/file/d/1Fvl62VUYQybLOk2GyCsxpaudMZiIRt_o/view?usp=sharing)
+5. [Serving Existing Deities](https://drive.google.com/file/d/1GVXVqaB2SoYkbQoKOhogB9EkFlJV19jk/view?usp=sharing)
+6. [Search For Happiness](https://drive.google.com/file/d/1GVXVqaB2SoYkbQoKOhogB9EkFlJV19jk/view?usp=sharing)
+7. [Refutation of Ritwikbad](https://drive.google.com/file/d/1HQO45uK7t4RFAaiHA9saMxaCfntxxH3N/view?usp=sharing)
+8. [Qualification of Guru-2](https://drive.google.com/file/d/1Gmo10iHj05kQ_nvWoqJGeVezfCFZQHhr/view?usp=sharing)
+9. [Qualification of Guru-1](https://drive.google.com/file/d/1GcnQl7Hk6fJOZjq_mr7xb2E7ZRtbemZ2/view?usp=sharing)
+10. [Origin of Mayavada](https://drive.google.com/file/d/1Fu9TawUjGlvlCgFgEf2sDuPibl8P9NVo/view?usp=sharing)
+11. [Material Life-A Dream](https://drive.google.com/file/d/1FZT1FFv6YuThdmJ6-zKRXYAcT38oDazJ/view?usp=sharing)
+12. [Importance of Tilak](https://drive.google.com/file/d/1FWbh-EqTEt5tUBzVoFRcNsVU6WaQFY7k/view?usp=sharing)
+13. [How to get second initiaition?](https://drive.google.com/file/d/1GaQ7wnE0GYrWT38ViILz7lgyqSN1_OqG/view?usp=sharing)
