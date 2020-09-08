@@ -75,7 +75,7 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
   - **[click here](https://drive.google.com/drive/folders/1Ds1UfqhZu2Zez06Rpw4BwPCQ95tuJZ98?usp=sharing)**
 
 ## **Answers to FAQs**
-  - **[click here](https://drive.google.com/drive/folders/1FGVcmvProRRXKooLHLQ8reY3GPLjh_4p?usp=sharing)**
+  - **[click here](https://nigamakalpataru.github.io/FAQ)**
 
 ## **Articles**
   - **[click here](https://drive.google.com/drive/folders/1MA17jTS9qBaVg9x_CdrDSZ1hN-90zvUi?usp=sharing)**
