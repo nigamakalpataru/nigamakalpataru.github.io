@@ -1,13 +1,13 @@
 # Bhagavad Gita
 
-1. Dharma ksetre kuruksetre : 1.1
-2. Karpanya dosopahata svabhava : 2.7
-3. Na tu eva ham jatu nasam : 2.12
-4. dehino 'smin BG 2.13
-5. Matra sparsas tu : 2.14
-6. Na jayate mriyate va : 2.20
-7. Vasamsi jirnany yatha : 2.22
-8. Nainam chindanti : 2.23
+1. [Dharma ksetre kuruksetre : 1.1](https://vedabase.io/en/library/bg/1/1/)
+2. [Karpanya dosopahata svabhava : 2.7](https://vedabase.io/en/library/bg/2/7/)
+3. [Na tu eva ham jatu nasam : 2.12](https://vedabase.io/en/library/bg/2/12/)
+4. [dehino 'smin BG 2.13](https://vedabase.io/en/library/bg/2/13/)
+5. [Matra sparsas tu : 2.14](https://vedabase.io/en/library/bg/2/14/)
+6. [Na jayate mriyate va : 2.20](https://vedabase.io/en/library/bg/2/20/)
+7. [Vasamsi jirnany yatha : 2.22](https://vedabase.io/en/library/bg/2/22/)
+8. [Nainam chindanti : 2.23](https://vedabase.io/en/library/bg/2/23/)
 9. Jatasya hi dhrubo mrtyor : 2.27
 10. Nehavikramo : 2.40
 11. Vyavasayatmika budhhi : 2.41
