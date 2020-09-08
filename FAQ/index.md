@@ -1,7 +1,7 @@
 # FAQ
 
 1. [Why to hear in Parampara?-2](https://drive.google.com/file/d/1FO83gIetW5AuesW4hrZ6Plci1SVoG9Bf/view?usp=sharing)
-2. [Why to hear in Parampara?-2](https://drive.google.com/file/d/1FMs_FaW74276LyJnM67eVqa2ilvSFAJG/view?usp=sharing)
+2. [Why to hear in Parampara?-1](https://drive.google.com/file/d/1FMs_FaW74276LyJnM67eVqa2ilvSFAJG/view?usp=sharing)
 3. [Who can do deity worship](https://drive.google.com/file/d/1GSQjvlieefDBHn6xMUMHslRbyb1Z3F5V/view?usp=sharing)
 4. [sunyavad_buddhism](https://drive.google.com/file/d/1Fvl62VUYQybLOk2GyCsxpaudMZiIRt_o/view?usp=sharing)
 5. [Serving Existing Deities](https://drive.google.com/file/d/1GVXVqaB2SoYkbQoKOhogB9EkFlJV19jk/view?usp=sharing)
