@@ -1,4 +1,8 @@
-# Bhagavad Gita
+# Important Verses to Remember
+
+Click on the verse to get directed to the corresponding vedabase library page which contains thr translation and meaning of the verse by H.D.G Srila Prabhupada.
+
+## Bhagavad Gita
 
 1. [Dharma ksetre kuruksetre : 1.1](https://vedabase.io/en/library/bg/1/1/)
 2. [Karpanya dosopahata svabhava : 2.7](https://vedabase.io/en/library/bg/2/7/)
@@ -8,63 +12,63 @@
 6. [Na jayate mriyate va : 2.20](https://vedabase.io/en/library/bg/2/20/)
 7. [Vasamsi jirnany yatha : 2.22](https://vedabase.io/en/library/bg/2/22/)
 8. [Nainam chindanti : 2.23](https://vedabase.io/en/library/bg/2/23/)
-9. Jatasya hi dhrubo mrtyor : 2.27
-10. Nehavikramo : 2.40
-11. Vyavasayatmika budhhi : 2.41
-12. Bhogaisvarya prosaktanam : 2.44
-13. Traigunya visaya veda : 2.45
-14. Karmay eva adikaras te : 2.47
-15. Dukkhesu anudvigna manah : 2.56
-16. Visaya vinivartante : 2.59
-17. Dhyayato visayan pumsah : 2.62-63
-18. Ya nisa sarva bhutanam : 2.69
-19. Offering : yajna sistasino santah BG 3.13
-20. Prakrtye kriyamanani : BG 3.27
-21. Sreyan sva dharma vigunah : 3.35
-22. Kama esa krodhesa : 3.37
-23. Imam vivasvate yogam : 4.1
-24. Evam parampara praptam : 4.2
-25. Yada yada hi dharmasya : 4.7
-26. Paritranaya sadhunam : 4.8
-27. Janam karma ca ne divyam 4.9
-28. Ye yatha mam 4.11
-29. Tat viddhi pranipatena 4.34
-30. Udhhared atman atmanam : 6.5
-31. Bandhur atmatmanas tasya : 6.6
-32. Jitatmanah prasantasya : 6.7
-33. Yuktahara viharasya : 6.17
-34. Bhakti yoga is highest : yoginam api sarvesam BG 6.47
-35. Devotees are very rare : manusyanam sahasresu BG 7.3
-36. None is superior to Lord : mattah parataram nanyat BG 7.7
-37. Daivi hi esa gunamayi : 7.14
-38. Na mam duskrtino mudhah : 7.15
-39. Catur vidhah bhajante mam : 7.16
-40. After so many lives we come to KC : bahunam janmanam ante BG 7.19
-41. Law of last wish : anta kale ca...yam yam vapi (BG 8.5-6)
-42. Tasmat sarvesu kalesu : 8.7
-43. Paras tasmat tu bhavanyo : 8.20
-44. Great devotees take shelter of superior energy : mahatmanas tu mam partha BG 9.13
-45. Yanti deva vrta devan 9.25
-46. Patram pushpam : 9.26
-47. Yat karosi yad asnasi : 9.27
-48. Samo ham sarva bhutesu : 9.29
-49. Man mana bhava : 9.34
-50. Aham sarvasya prabhavo : 10.8
-51. Mac citta mad gata : 10.9
-52. Sakheti matva : 11.41-42
-53. Atha cittam samadhatum : 12.9
-54. Sarva yonisu kaunteya : 14.4
-55. Mam ca yo vyavicarena : 14.26
-56. Na tad bhasayate suryo : 15.7
-57. Sarvasya caham hrdi sannivisto : 15.15
-58. Tri vidham narakasyedam : 16.21
-59. Samo damas tapah sauca : 18:42
-60. Qualification for bhakti : brahmabhuta prasannatma BG 18.54
-61. Isvara sarvabhutanam : 18.61
-62. Man mana bhava : BG 18.65
-63. Sarvadharman parityajya : BG 18.66
-64. Nasta moha smrtir labdha : BG 18.73
-65. Yatra yogesvara Krsna : 18.78
+9. [Jatasya hi dhrubo mrtyor : 2.27](https://vedabase.io/en/library/bg/2/27/)
+10. [Nehavikramo : 2.40](https://vedabase.io/en/library/bg/2/40/)
+11. [Vyavasayatmika budhhi : 2.41](https://vedabase.io/en/library/bg/2/41/)
+12. [Bhogaisvarya prosaktanam : 2.44](https://vedabase.io/en/library/bg/2/44/)
+13. [Traigunya visaya veda : 2.45](https://vedabase.io/en/library/bg/2/45/)
+14. [Karmay eva adikaras te : 2.47](https://vedabase.io/en/library/bg/2/47/)
+15. [Dukkhesu anudvigna manah : 2.56](https://vedabase.io/en/library/bg/2/56/)
+16. [Visaya vinivartante : 2.59](https://vedabase.io/en/library/bg/2/59/)
+17. [Dhyayato visayan pumsah : 2.62-63](https://vedabase.io/en/library/bg/2/62/)
+18. [Ya nisa sarva bhutanam : 2.69](https://vedabase.io/en/library/bg/2/69/)
+19. [Offering : yajna sistasino santah BG 3.13](https://vedabase.io/en/library/bg/3/13/)
+20. [Prakrtye kriyamanani : BG 3.27](https://vedabase.io/en/library/bg/3/27/)
+21. [Sreyan sva dharma vigunah : 3.35](https://vedabase.io/en/library/bg/3/35/)
+22. [Kama esa krodhesa : 3.37](https://vedabase.io/en/library/bg/3/37/)
+23. [Imam vivasvate yogam : 4.1](https://vedabase.io/en/library/bg/4/1/)
+24. [Evam parampara praptam : 4.2](https://vedabase.io/en/library/bg/4/2/)
+25. [Yada yada hi dharmasya : 4.7](https://vedabase.io/en/library/bg/4/7/)
+26. [Paritranaya sadhunam : 4.8](https://vedabase.io/en/library/bg/4/8/)
+27. [Janam karma ca ne divyam 4.9](https://vedabase.io/en/library/bg/4/9/)
+28. [Ye yatha mam 4.11](https://vedabase.io/en/library/bg/4/11/)
+29. [Tat viddhi pranipatena 4.34](https://vedabase.io/en/library/bg/4/34/)
+30. [Udhhared atman atmanam : 6.5](https://vedabase.io/en/library/bg/4/1/)
+31. [Bandhur atmatmanas tasya : 6.6](https://vedabase.io/en/library/bg/4/1/)
+32. [Jitatmanah prasantasya : 6.7](https://vedabase.io/en/library/bg/4/1/)
+33. [Yuktahara viharasya : 6.17](https://vedabase.io/en/library/bg/4/1/)
+34. [Bhakti yoga is highest : yoginam api sarvesam BG 6.47](https://vedabase.io/en/library/bg/4/1/)
+35. [Devotees are very rare : manusyanam sahasresu BG 7.3](https://vedabase.io/en/library/bg/4/1/)
+36. [None is superior to Lord : mattah parataram nanyat BG 7.7](https://vedabase.io/en/library/bg/4/1/)
+37. [Daivi hi esa gunamayi : 7.14](https://vedabase.io/en/library/bg/4/1/)
+38. [Na mam duskrtino mudhah : 7.15](https://vedabase.io/en/library/bg/4/1/)
+39. [Catur vidhah bhajante mam : 7.16](https://vedabase.io/en/library/bg/4/1/)
+40. [After so many lives we come to KC : bahunam janmanam ante BG 7.19](https://vedabase.io/en/library/bg/4/1/)
+41. [Law of last wish : anta kale ca...yam yam vapi (BG 8.5-6)](https://vedabase.io/en/library/bg/4/1/)
+42. [Tasmat sarvesu kalesu : 8.7](https://vedabase.io/en/library/bg/4/1/)
+43. [Paras tasmat tu bhavanyo : 8.20](https://vedabase.io/en/library/bg/4/1/)
+44. [Great devotees take shelter of superior energy : mahatmanas tu mam partha BG 9.13](https://vedabase.io/en/library/bg/4/1/)
+45. [Yanti deva vrta devan 9.25](https://vedabase.io/en/library/bg/4/1/)
+46. [Patram pushpam : 9.26](https://vedabase.io/en/library/bg/4/1/)
+47. [Yat karosi yad asnasi : 9.27](https://vedabase.io/en/library/bg/4/1/)
+48. [Samo ham sarva bhutesu : 9.29](https://vedabase.io/en/library/bg/4/1/)
+49. [Man mana bhava : 9.34](https://vedabase.io/en/library/bg/4/1/)
+50. [Aham sarvasya prabhavo : 10.8](https://vedabase.io/en/library/bg/4/1/)
+51. [Mac citta mad gata : 10.9](https://vedabase.io/en/library/bg/4/1/)
+52. [Sakheti matva : 11.41-42](https://vedabase.io/en/library/bg/4/1/)
+53. [Atha cittam samadhatum : 12.9](https://vedabase.io/en/library/bg/4/1/)
+54. [Sarva yonisu kaunteya : 14.4](https://vedabase.io/en/library/bg/4/1/)
+55. [Mam ca yo vyavicarena : 14.26](https://vedabase.io/en/library/bg/4/1/)
+56. [Na tad bhasayate suryo : 15.7](https://vedabase.io/en/library/bg/4/1/)
+57. [Sarvasya caham hrdi sannivisto : 15.15](https://vedabase.io/en/library/bg/4/1/)
+58. [Tri vidham narakasyedam : 16.21](https://vedabase.io/en/library/bg/4/1/)
+59. [Samo damas tapah sauca : 18:42](https://vedabase.io/en/library/bg/4/1/)
+60. [Qualification for bhakti : brahmabhuta prasannatma BG 18.54](https://vedabase.io/en/library/bg/4/1/)
+61. [Isvara sarvabhutanam : 18.61](https://vedabase.io/en/library/bg/4/1/)
+62. [Man mana bhava : BG 18.65](https://vedabase.io/en/library/bg/4/1/)
+63. [Sarvadharman parityajya : BG 18.66](https://vedabase.io/en/library/bg/4/1/)
+64. [Nasta moha smrtir labdha : BG 18.73](https://vedabase.io/en/library/bg/4/1/)
+65. [Yatra yogesvara Krsna : 18.78](https://vedabase.io/en/library/bg/4/1/)
 
 # Srimad Bhagavatam
 
