@@ -107,28 +107,28 @@ Click on the verse to get directed to the corresponding vedabase library page wh
 33. [Srutasya pumsam sucira : 3.13.4](https://vedabase.io/en/library/sb/3/13/4/)
 34. [Yatha taror mula SB 4.31.14](https://vedabase.io/en/library/sb/4/31/14/)
 35. [Kecit kevalaya bhaktya : 6.1.15](https://vedabase.io/en/library/sb/6/1/15/)
-36. Muktanam api siddhanam : 6.14.5
-37. Tat prayaso na kartavyo SB 7.6.4
-38. Satyam vidhatum nija bhrtya SB 7.8.17
-39. Manye dhanabhijana rupa : 7.9.9
-40. Nanda kim akarod : 10.8.46
-41. Vani gunanukathane : 10.10.38
-42. tat te nu kampam SB 10.14.8
-43. Aho bhagyam aho bhagyam : 10.14.32
-44. Samasrita ye pada pallava plavam 10.14.58
-45. Anayaradhita nunam : 10.30.28
-46. Anugrahaya bhaktanam : 10.33.36
-47. Jayati jana nivaso : 10.90.48
-48. Durlabho manuso deho : 11.2.29
-49. Krsna varnam tvisa akrsnam : 11.5.32
-50. Tvayopabhukta srag gandha : 11.6.46
-51. Labdhva sudurlabham : 11.9.29
-52. Na sadhayati mam yogo : 11.14.20
-53. nr deham adyam : 11.20.17
-54. Kaler dosa nidhe rajan : SB 12.3.51
-55. Yam brahma varunendra : 12.13.1
-56. Nimnaganam yatha ganga : SB 12.13.16
-57. Nama sankirtanam yasya : 12.13.23
+36. [Muktanam api siddhanam : 6.14.5](https://vedabase.io/en/library/sb/6/14/5/)
+37. [Tat prayaso na kartavyo SB 7.6.4](https://vedabase.io/en/library/sb/7/6/4/)
+38. [Satyam vidhatum nija bhrtya SB 7.8.17](https://vedabase.io/en/library/sb/7/8/17/)
+39. [Manye dhanabhijana rupa : 7.9.9](https://vedabase.io/en/library/sb/7/9/9/)
+40. [Nanda kim akarod : 10.8.46](https://vedabase.io/en/library/sb/10/8/46/)
+41. [Vani gunanukathane : 10.10.38](https://vedabase.io/en/library/sb/10/10/38/)
+42. [tat te nu kampam SB 10.14.8](https://vedabase.io/en/library/sb/10/14/8/)
+43. [Aho bhagyam aho bhagyam : 10.14.32](https://vedabase.io/en/library/sb/10/14/32/)
+44. [Samasrita ye pada pallava plavam 10.14.58](https://vedabase.io/en/library/sb/10/14/58/)
+45. [Anayaradhita nunam : 10.30.28](https://vedabase.io/en/library/sb/10/30/28/)
+46. [Anugrahaya bhaktanam : 10.33.36](https://vedabase.io/en/library/sb/10/33/36/)
+47. [Jayati jana nivaso : 10.90.48](https://vedabase.io/en/library/sb/10/90/48/)
+48. [Durlabho manuso deho : 11.2.29](https://vedabase.io/en/library/sb/11/2/29/)
+49. [Krsna varnam tvisa akrsnam : 11.5.32](https://vedabase.io/en/library/sb/11/5/32/)
+50. [Tvayopabhukta srag gandha : 11.6.46](https://vedabase.io/en/library/sb/11/6/46/)
+51. [Labdhva sudurlabham : 11.9.29](https://vedabase.io/en/library/sb/11/9/29/)
+52. [Na sadhayati mam yogo : 11.14.20](https://vedabase.io/en/library/sb/11/14/20/)
+53. [nr deham adyam : 11.20.17](https://vedabase.io/en/library/sb/11/20/17/)
+54. [Kaler dosa nidhe rajan : SB 12.3.51](https://vedabase.io/en/library/sb/12/3/51/)
+55. [Yam brahma varunendra : 12.13.1](https://vedabase.io/en/library/sb/12/13/1/)
+56. [Nimnaganam yatha ganga : SB 12.13.16](https://vedabase.io/en/library/sb/12/13/16/)
+57. [Nama sankirtanam yasya : 12.13.23](https://vedabase.io/en/library/sb/12/13/23/)
 
 # Chaitanya Caritamrita
 
