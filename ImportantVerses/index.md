@@ -132,23 +132,23 @@ Click on the verse to get directed to the corresponding vedabase library page wh
 
 # Chaitanya Caritamrita
 
-1. Sri radhayah pranaya : adi 1.6
-2. Atmendriya priti vancha : Adi 4.165
-3. Kiba vipra kiba nyasi : madhya 8.128
-4. Sthavar jangam dekhe na (madhya 8.274)
-5. Krsna surya sama : madhya 22.31
-6. Sraddha sabde visvas kahe : madhya 22.62
-7. Maya mugdho jivera nahi : madhya 22.122
-8. Siddhanta baliye citte : adi 2.117
-9. Kamadinam kati na kati dha : madhya 22.16
-10. Sthanabhilasi tapasi sthito : madhya 22.42
-11. Yare dekho tare kaha : madhya 7.128
-12. Bharata bhumite haila : adi 9.41
-13. Brahmanda bhramite : madhya 19.151
-14. Prabhu kahe vaisnava seva : madhya 16.70
-15. Tarko apratistho...mahajano yena… : madhya 25.57(told by CMP)
-16. Damstri damstra hato mleccho : antya 3.56
-17. Sruyatam sruyatam nityam : antya 12.1
+1. [Sri radhayah pranaya : adi 1.6](https://vedabase.io/en/library/cc/adi/1/6/)
+2. [Atmendriya priti vancha : Adi 4.165](https://vedabase.io/en/library/cc/adi/4/165/)
+3. [Kiba vipra kiba nyasi : madhya 8.128](https://vedabase.io/en/library/cc/madhya/8/128/)
+4. [Sthavar jangam dekhe na (madhya 8.274)](https://vedabase.io/en/library/cc/madhya/8/274/)
+5. [Krsna surya sama : madhya 22.31](https://vedabase.io/en/library/cc/madhya/22/31/)
+6. [Sraddha sabde visvas kahe : madhya 22.62](https://vedabase.io/en/library/cc/madhya/22/62/)
+7. [Maya mugdho jivera nahi : madhya 22.122](https://vedabase.io/en/library/cc/madhya/22/122/)
+8. [Siddhanta baliye citte : adi 2.117](https://vedabase.io/en/library/cc/adi/2/117/)
+9. [Kamadinam kati na kati dha : madhya 22.16](https://vedabase.io/en/library/cc/madhya/22/16/)
+10. [Sthanabhilasi tapasi sthito : madhya 22.42](https://vedabase.io/en/library/cc/madhya/22/42/)
+11. [Yare dekho tare kaha : madhya 7.128](https://vedabase.io/en/library/cc/madhya/7/128/)
+12. [Bharata bhumite haila : adi 9.41](https://vedabase.io/en/library/cc/adi/9/41/)
+13. [Brahmanda bhramite : madhya 19.151](https://vedabase.io/en/library/cc/madhya/19/151/)
+14. [Prabhu kahe vaisnava seva : madhya 16.70](https://vedabase.io/en/library/cc/madhya/16/70/)
+15. [Tarko apratistho...mahajano yena… : madhya 25.57(told by CMP)](https://vedabase.io/en/library/cc/madhya/25/57/)
+16. [Damstri damstra hato mleccho : antya 3.56](https://vedabase.io/en/library/cc/antya/3/56/)
+17. [Sruyatam sruyatam nityam : antya 12.1](https://vedabase.io/en/library/cc/antya/12/1/)
 
 # Other Scriptures :
 
