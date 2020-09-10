@@ -72,41 +72,41 @@ Click on the verse to get directed to the corresponding vedabase library page wh
 
 # Srimad Bhagavatam
 
-1. Janmady asya yatha SB 1.1.1
-2. Dharmo projita kaitava SB 1.1.2
-3. SB is ripened fruit of vedas : nigama kalpataror SB 1.1.3
-4. Prayena alapayusah : SB 1.1.10
-5. Sa vai pumsam : 1.2.6
-6. Vasudeve bhagavati : 1.2.7
-7. Dharma sva anusthita : 1.2.8
-8. Dharmasya hi apavargasya : 1.2.9
-9. Kamasya nedriya pritir : 1.2.10
-10. Vadanto tat tattva vidhas : 1.2.11
-11. Tac chchraddhadhana munayo : 1.2.12
-12. Atah pumbhir : 1.2.13
-13. Tasmad ekena manasa : 1.2.14
-14. Yad anudhyasina yuktah : 1.2.15
-15. Susruso sradhhadhanasya : 1.2.16
-16. Srnvatam sva katha krsnah : 1.2.17
-17. Nasta prayesu abhadresu : 1.2.18
-18. Tada rajas tamo bhava : 1.2.19
-19. Evan prasanna manaso : 1.2.20
-20. Bhidyate hrdaya granthis : 1.2.21
-21. Ete camsa kala pumsah : 1.3.28
-22. Yasyam vai sruyamanayam : 1.7.7
-23. Namasye purusam tadyam : 1.8.18
-24. Tatha paramahamsanam : 1.8.20
-25. Krsnaya vasudevaya : 1.8.21
-26. Namah pankajapankaja-nabhaya : 1.8.22
-27. Calamities are good : vipadah santu ta sasvat...SB 1.8.25(prayers of QK)
-28. Sva vit baraha ustra karohi SB 2.3.19
-29. Sriyah patir yajna patih : SB 2.4.20
-30. Srnvatam sraddhaya nitam : 2.8.4
-31. Aho baki yam : 3.3.23
-32. Janasya krsnad : 3.5.3(vidura said)
-33. Srutasya pumsam sucira : 3.13.4
-34. Yatha taror mula SB 4.31.14
-35. Kecit kevalaya bhaktya : 6.1.15
+1. [Janmady asya yatha SB 1.1.1](https://vedabase.io/en/library/sb/1/1/1/)
+2. [Dharmo projita kaitava SB 1.1.2](https://vedabase.io/en/library/sb/1/1/2/)
+3. [SB is ripened fruit of vedas : nigama kalpataror SB 1.1.3](https://vedabase.io/en/library/sb/1/1/3/)
+4. [Prayena alapayusah : SB 1.1.10](https://vedabase.io/en/library/sb/1/1/10/)
+5. [Sa vai pumsam : 1.2.6](https://vedabase.io/en/library/sb/1/2/6/)
+6. [Vasudeve bhagavati : 1.2.7](https://vedabase.io/en/library/sb/1/2/7/)
+7. [Dharma sva anusthita : 1.2.8](https://vedabase.io/en/library/sb/1/2/8/)
+8. [Dharmasya hi apavargasya : 1.2.9](https://vedabase.io/en/library/sb/1/2/9/)
+9. [Kamasya nedriya pritir : 1.2.10](https://vedabase.io/en/library/sb/1/2/10/)
+10. [Vadanto tat tattva vidhas : 1.2.11](https://vedabase.io/en/library/sb/1/2/11/)
+11. [Tac chchraddhadhana munayo : 1.2.12](https://vedabase.io/en/library/sb/1/2/12/)
+12. [Atah pumbhir : 1.2.13](https://vedabase.io/en/library/sb/1/2/13/)
+13. [Tasmad ekena manasa : 1.2.14](https://vedabase.io/en/library/sb/1/2/14/)
+14. [Yad anudhyasina yuktah : 1.2.15](https://vedabase.io/en/library/sb/1/2/15/)
+15. [Susruso sradhhadhanasya : 1.2.16](https://vedabase.io/en/library/sb/1/2/16/)
+16. [Srnvatam sva katha krsnah : 1.2.17](https://vedabase.io/en/library/sb/1/2/17/)
+17. [Nasta prayesu abhadresu : 1.2.18](https://vedabase.io/en/library/sb/1/2/18/)
+18. [Tada rajas tamo bhava : 1.2.19](https://vedabase.io/en/library/sb/1/2/19/)
+19. [Evan prasanna manaso : 1.2.20](https://vedabase.io/en/library/sb/1/2/20/)
+20. [Bhidyate hrdaya granthis : 1.2.21](https://vedabase.io/en/library/sb/1/2/21/)
+21. [Ete camsa kala pumsah : 1.3.28](https://vedabase.io/en/library/sb/1/1/28/)
+22. [Yasyam vai sruyamanayam : 1.7.7](https://vedabase.io/en/library/sb/1/7/7/)
+23. [Namasye purusam tadyam : 1.8.18](https://vedabase.io/en/library/sb/1/8/18/)
+24. [Tatha paramahamsanam : 1.8.20](https://vedabase.io/en/library/sb/1/8/20/)
+25. [Krsnaya vasudevaya : 1.8.21](https://vedabase.io/en/library/sb/1/8/21/)
+26. [Namah pankajapankaja-nabhaya : 1.8.22](https://vedabase.io/en/library/sb/1/8/22/)
+27. [Calamities are good : vipadah santu ta sasvat...SB 1.8.25(prayers of QK)](https://vedabase.io/en/library/sb/1/8/25/)
+28. [Sva vit baraha ustra karohi SB 2.3.19](https://vedabase.io/en/library/sb/2/3/19/)
+29. [Sriyah patir yajna patih : SB 2.4.20](https://vedabase.io/en/library/sb/2/4/20/)
+30. [Srnvatam sraddhaya nitam : 2.8.4](https://vedabase.io/en/library/sb/2/8/4/)
+31. [Aho baki yam : 3.3.23](https://vedabase.io/en/library/sb/3/3/23/)
+32. [Janasya krsnad : 3.5.3(vidura said)](https://vedabase.io/en/library/sb/3/5/3/)
+33. [Srutasya pumsam sucira : 3.13.4](https://vedabase.io/en/library/sb/3/13/4/)
+34. [Yatha taror mula SB 4.31.14](https://vedabase.io/en/library/sb/4/31/14/)
+35. [Kecit kevalaya bhaktya : 6.1.15](https://vedabase.io/en/library/sb/6/1/15/)
 36. Muktanam api siddhanam : 6.14.5
 37. Tat prayaso na kartavyo SB 7.6.4
 38. Satyam vidhatum nija bhrtya SB 7.8.17
