@@ -154,8 +154,8 @@ Click on the verse to get directed to the corresponding vedabase library page wh
 
 1. Lord resides where his glories are sung : naham tisthami vaikunthe...(padma
 puran)
-2. Lord is personal : hiranmayena patrena (Iso mantra 15)
-3. Yukta Vairagya : anasaktasya visayan...BRS(1.2.255)
+2. [Lord is personal : hiranmayena patrena (Iso mantra 15)](https://vedabase.io/en/library/iso/15/)
+3. [Yukta Vairagya : anasaktasya visayan...BRS(1.2.255)](https://vedabase.io/en/library/iso/15/)
 4. Falgu vairagya : papancikataya budhhya...BRS(1.2.256)
 5. Pure devotional service : anyabhilasita sunyam...(BRS 1.1.11) sarvopadhi
 vinirmuktam...(BRS 1.1.12)
