@@ -152,14 +152,14 @@ Click on the verse to get directed to the corresponding vedabase library page wh
 
 # Other Scriptures :
 
-1. Lord resides where his glories are sung : naham tisthami vaikunthe...(padma
-puran)
+1. [Lord resides where his glories are sung : naham tisthami vaikunthe...(padma
+puran) similar to ŚB 4.21.41](https://vedabase.io/en/library/sb/4/21/41/)
 2. [Lord is personal : hiranmayena patrena (Iso mantra 15)](https://vedabase.io/en/library/iso/15/)
-3. Yukta Vairagya : anasaktasya visayan...BRS(1.2.255)
-4. Falgu vairagya : papancikataya budhhya...BRS(1.2.256)
-5. Pure devotional service : anyabhilasita sunyam...(BRS 1.1.11) sarvopadhi
-vinirmuktam...(BRS 1.1.12)
-6. Ahani ahani bhutani : Mahabharat
+3. [Yukta Vairagya : anasaktasya visayan...BRS(1.2.255) similar to BG 6.10](https://vedabase.io/en/library/bg/6/10/)
+4. [Falgu vairagya : papancikataya budhhya...BRS(1.2.256) similar to BG 6.10](https://vedabase.io/en/library/bg/6/10/)
+5. [Pure devotional service : anyabhilasita sunyam...(BRS 1.1.11) sarvopadhi
+vinirmuktam...(BRS 1.1.12) same as CC Madhya 19.167](https://vedabase.io/en/library/cc/madhya/19/167/)
+6. [Ahani ahani bhutani : Mahabharat same as ŚB 7.2.57](https://vedabase.io/en/library/sb/7/2/57/)
 7. [Aradhananam sarvesam : Lord Siva in padma puran, also in CC madhya 11.31](https://vedabase.io/en/library/cc/madhya/11/31/)
 8. Muktipradata sarvesam : Lord Siva
 9. [Rama rameti rameti : cc madhya 9.32, Padma Purana, Lord Siva](https://vedabase.io/en/library/cc/madhya/9/32/)
