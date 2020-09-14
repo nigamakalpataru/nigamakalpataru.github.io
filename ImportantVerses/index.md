@@ -155,14 +155,14 @@ Click on the verse to get directed to the corresponding vedabase library page wh
 1. Lord resides where his glories are sung : naham tisthami vaikunthe...(padma
 puran)
 2. [Lord is personal : hiranmayena patrena (Iso mantra 15)](https://vedabase.io/en/library/iso/15/)
-3. [Yukta Vairagya : anasaktasya visayan...BRS(1.2.255)](https://vedabase.io/en/library/iso/15/)
+3. Yukta Vairagya : anasaktasya visayan...BRS(1.2.255)
 4. Falgu vairagya : papancikataya budhhya...BRS(1.2.256)
 5. Pure devotional service : anyabhilasita sunyam...(BRS 1.1.11) sarvopadhi
 vinirmuktam...(BRS 1.1.12)
 6. Ahani ahani bhutani : Mahabharat
-7. Aradhananam sarvesam : Lord Siva in padma puran, also in CC madhya 11.31
+7. [Aradhananam sarvesam : Lord Siva in padma puran, also in CC madhya 11.31](https://vedabase.io/en/library/cc/madhya/11/31/)
 8. Muktipradata sarvesam : Lord Siva
-9. Rama rameti rameti : cc madhya 9.32, Padma Purana, Lord Siva
+9. [Rama rameti rameti : cc madhya 9.32, Padma Purana, Lord Siva](https://vedabase.io/en/library/cc/madhya/9/32/)
 10. Go koti danam grahane khagasya : Vedic Scripture
 11. Varjanam bhava bijanam
 12. Anukulyasya sankalpa : saranagati : Hari bhakti Vilas 11.67
@@ -182,9 +182,9 @@ krpambudhir yah para-duhkha-duhkhi / sanatanam tam prabhum asrayami(Sri
 Vilapa-Kusumanjali, verse 6)]
 21. Aisvaryasya samagrasya viryasya yasasah sriyah / jnana vairagyos caiva
 sannam bhaga itingana (Parasara muni)
-22. Krsna bhakti rasa bhavita matih/ kriyatam yadi kuto’pi labhyate/ tatra laulyam api
+22. [Krsna bhakti rasa bhavita matih/ kriyatam yadi kuto’pi labhyate/ tatra laulyam api
 mulyam ekalam/ koti janma sukrtair na labhyate (Rupa G, padyavali, CC madhya
-8.70)
+8.70)](https://vedabase.io/en/library/cc/madhya/8/70/)
 23. Kaleh prathama sandhyayam laksmi kanto bhavisyati/ daru brahma samipastha
 sannyasi gaura vigraha (Garuda Puran)
 24. Yo reme saha vallabhi(garuda puran)
