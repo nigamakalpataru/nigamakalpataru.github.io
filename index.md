@@ -39,7 +39,7 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 
 ## **Slides**
 
-1. **[Introduction to Krishna Consciousness](https://drive.google.com/file/d/1PqksH7ooJvk6VYrJdQB96I4MgM-WcFqR/view?usp=sharing)**
+1. **[Introduction to Krishna Consciousness](https://drive.google.com/file/d/10X2_XA9Aglyw62mtCqGhzoM56vFjiAjo/view?usp=sharing)**
 2. **[Lord Balarama](https://drive.google.com/file/d/1jyZ5BeYdRKeQ-I8TN_diGvm6cqRL0JLY/view?usp=sharing)**
 3. **[Lord Krishna](https://drive.google.com/file/d/1vpjZIU2_l8lHYfOFc8ZRJyamRLdOvLq8/view?usp=sharing)**
 4. **[Pranam Mantras](https://drive.google.com/file/d/1cMDqbttaBSUrevwGSUMcj0t_sTuTxDmg/view?usp=sharing)**
