@@ -22,3 +22,5 @@ To Start a lecture please click on the corresponding picture
 [![Youtube](https://img.youtube.com/vi/BPJOv7_Qpls/0.jpg)](https://www.youtube.com/watch?v=BPJOv7_Qpls)
 ### 10.Radhastami 2020
 [![Youtube](https://img.youtube.com/vi/jXUcOzDVrWE/0.jpg)](https://www.youtube.com/watch?v=jXUcOzDVrWE)
+### 10.Deep Daan 2020
+[![Youtube](https://img.youtube.com/vi/dhzh-mXKsXk/0.jpg)](https://www.youtube.com/watch?v=dhzh-mXKsXk)
