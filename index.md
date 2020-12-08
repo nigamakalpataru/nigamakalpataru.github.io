@@ -13,7 +13,7 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 4. **[Prayers](https://nigamakalpataru.github.io/Stutis)**
 5. **[Festivals & Yatras](https://nigamakalpataru.github.io/Others)**
 6. **[Special Topics](https://nigamakalpataru.github.io/Special_topics)**
-
+7. **[Musical Meters](https://nigamakalpataru.github.io/Musical_Meters)**
 
 ## **Lecture Series**
 
