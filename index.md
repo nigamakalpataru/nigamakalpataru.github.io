@@ -14,6 +14,7 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 5. **[Festivals & Yatras](https://nigamakalpataru.github.io/Others)**
 6. **[Special Topics](https://nigamakalpataru.github.io/Special_topics)**
 7. **[Musical Meters](https://nigamakalpataru.github.io/Musical_Meters)**
+8. **[Bhakti Yoga : Why & How?](https://nigamakalpataru.github.io/Bhakti_Yoga_Seminar)**
 
 ## **Lecture Series**
 
