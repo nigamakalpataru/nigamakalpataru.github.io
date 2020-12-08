@@ -25,16 +25,16 @@ To start a Musical Meter please click on the corresponding picture
 ### 8. 15 Syllable-Tune 2
 [![Youtube](https://img.youtube.com/vi/GDVVJo_XUf8/0.jpg)](https://www.youtube.com/watch?v=GDVVJo_XUf8)
 ### 9. 17 Syllable-Tune 1
-[![Youtube](https://img.youtube.com/vi/Xyu8qLN1mIg/0.jpg)](https://www.youtube.com/watch?v=Xyu8qLN1mIg)
+[![Youtube](https://img.youtube.com/vi/1lyr0srmboA/0.jpg)](https://www.youtube.com/watch?v=1lyr0srmboA)
 ### 10. 17 Syllable-Tune 2
-[![Youtube](https://img.youtube.com/vi/lKrFdeVFGHc/0.jpg)](https://www.youtube.com/watch?v=lKrFdeVFGHc)
+[![Youtube](https://img.youtube.com/vi/r7gxnAnfUbQ/0.jpg)](https://www.youtube.com/watch?v=r7gxnAnfUbQ)
 ### 11. 19 Syllable-Tune 1
-[![Youtube](https://img.youtube.com/vi/Xyu8qLN1mIg/0.jpg)](https://www.youtube.com/watch?v=Xyu8qLN1mIg)
+[![Youtube](https://img.youtube.com/vi/ARAoQ6RZGVc/0.jpg)](https://www.youtube.com/watch?v=Xyu8qLN1mIg)
 ### 12. 19 Syllable-Tune 2
-[![Youtube](https://img.youtube.com/vi/lKrFdeVFGHc/0.jpg)](https://www.youtube.com/watch?v=lKrFdeVFGHc)
+[![Youtube](https://img.youtube.com/vi/n68hf_vBKtU/0.jpg)](https://www.youtube.com/watch?v=n68hf_vBKtU)
 ### 13. 21 Syllable-Tune 1
-[![Youtube](https://img.youtube.com/vi/Xyu8qLN1mIg/0.jpg)](https://www.youtube.com/watch?v=Xyu8qLN1mIg)
+[![Youtube](https://img.youtube.com/vi/Cx4kV-stHYE/0.jpg)](https://www.youtube.com/watch?v=Cx4kV-stHYE)
 ### 14. 21 Syllable-Tune 2
-[![Youtube](https://img.youtube.com/vi/lKrFdeVFGHc/0.jpg)](https://www.youtube.com/watch?v=lKrFdeVFGHc)
+[![Youtube](https://img.youtube.com/vi/C7i0B9smSa0/0.jpg)](https://www.youtube.com/watch?v=C7i0B9smSa0)
 ### 15. Special Meter: Pushpitagra(12/13)
-[![Youtube](https://img.youtube.com/vi/lKrFdeVFGHc/0.jpg)](https://www.youtube.com/watch?v=lKrFdeVFGHc)
+[![Youtube](https://img.youtube.com/vi/gA8LojjRUU8/0.jpg)](https://www.youtube.com/watch?v=gA8LojjRUU8)
