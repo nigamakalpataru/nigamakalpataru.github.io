@@ -25,10 +25,10 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 
 ## **Transcription of Lecture Series**
 
-1. **[Importance of Remembering Krishna](https://nigamakalpataru.github.io/Transcription/ImportanceofRememberingKrishna)**
-2. **[Human Life - The Greatest Benediction](https://nigamakalpataru.github.io/Transcription/HumanLifeTheGreatestBenediction)**
-3. **[Bhakti Yoga - The Topmost Yoga System](https://nigamakalpataru.github.io/Transcription/BhaktiYogaTheTopmostYogaSystem)**
-4. **[Action in Krishna Consciousness](https://nigamakalpataru.github.io/Transcription/ActioninKrishnaConsciousness)**
+1. **[Importance of Remembering Krishna](https://nigamakalpataru.github.io/Transcriptions/ImportanceofRememberingKrishna)**
+2. **[Human Life - The Greatest Benediction](https://nigamakalpataru.github.io/Transcriptions/HumanLifeTheGreatestBenediction)**
+3. **[Bhakti Yoga - The Topmost Yoga System](https://nigamakalpataru.github.io/Transcriptions/BhaktiYogaTheTopmostYogaSystem)**
+4. **[Action in Krishna Consciousness](https://nigamakalpataru.github.io/Transcriptions/ActioninKrishnaConsciousness)**
 
 
 ## **Special Lectures(Bengali)**
