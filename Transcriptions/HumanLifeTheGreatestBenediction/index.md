@@ -1,4 +1,4 @@
-**Importance of Remembering Krishna Series by His Grace Rupara Prabhu(Transcript)**
+**Human Life The Greatest Benediction Series by His Grace Rupara Prabhu(Transcript)**
 
 **Click on the Lecture Links to Open** 
 
