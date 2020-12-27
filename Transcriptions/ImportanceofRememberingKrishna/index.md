@@ -1,4 +1,4 @@
-*Importance of Remembering Krishna Series by His Grace Rupara Prabhu(Transcript)*
+**Importance of Remembering Krishna Series by His Grace Rupara Prabhu(Transcript)**
 
 **Click on the Lecture Links to Open** 
 
