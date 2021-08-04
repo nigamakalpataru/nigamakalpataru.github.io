@@ -3,6 +3,8 @@
 
 #### **About**
 
+This is the official website of Nigama Kalpataru, meant for Vaisnavas for the nourishment of the creeper of devotional service. 
+
 O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of the desire tree of Vedic literatures. It emanated from the lips of Śrī Śukadeva Gosvāmī. Therefore this fruit has become even more tasteful, although its nectarean juice was already relishable for all, including liberated souls. [Srimad Bhagavatam 1.1.3]
 
 # **Contents**
