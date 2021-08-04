@@ -9,6 +9,8 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 
 ## **YouTube Videos**
 
+We have a dedicated Youtube Channel https://www.youtube.com/channel/UCdTNszymRVaJNB03MnHCTig
+
 1. **[Introduction to Krishna Consciousness(6 Lectures)](https://nigamakalpataru.github.io/English_Lecures)**
 2. **[কৃষ্ণ ভাবনামৃতের বিজ্ঞান(৬ টি প্রবচন)](https://nigamakalpataru.github.io/Bengali_Lectures)**
 3. **[Brief Introductory Lecture Series for Beginners (12 short lectures)](https://nigamakalpataru.github.io/Begineer_Lectures)**
