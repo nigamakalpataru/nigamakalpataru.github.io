@@ -84,6 +84,6 @@ We have a dedicated [Youtube Channel](https://www.youtube.com/channel/UCdTNszymR
   - **[click here](https://nigamakalpataru.github.io/FAQ)**
 
 ## **Articles**
-[New]. **[Krsna is inconceivable](https://nigamakalpataru.github.io/Articles/Krsna is inconceivable)**
+1. **[Krsna is inconceivable](https://nigamakalpataru.github.io/Articles/Krsna is inconceivable)**
   - **[click here](https://drive.google.com/drive/folders/1MA17jTS9qBaVg9x_CdrDSZ1hN-90zvUi?usp=sharing)**
 
