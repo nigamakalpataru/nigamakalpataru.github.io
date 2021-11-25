@@ -11,6 +11,7 @@ O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of th
 
 ## **Articles**
 1. **[Inconceivable Krsna](https://nigamakalpataru.github.io/Articles/InconceivableKrsna)**
+2. **[From Villain to Hero](https://nigamakalpataru.github.io/Articles/Villain2Hero)**
 
 ## **YouTube Videos**
 
